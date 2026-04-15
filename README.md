@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--vr-ru-xwalk--raulugarte.aem.page/
+- Live: https://main--vr-ru-xwalk--raulugarte.aem.live/
 
 ## Documentation
 
